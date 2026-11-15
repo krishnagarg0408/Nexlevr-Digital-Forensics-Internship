@@ -29,6 +29,6 @@ This repository contains my completed task submissions for the **Nexlevr Digital
 
 ## Acknowledgement
 
-Thank you to Nexlevr for providing me with this learning opportunity.
+Thank you to @Nexlevr for providing me with this learning opportunity.
 
 #DigitalForensics #Nexlevr #CyberSecurity #Internship
